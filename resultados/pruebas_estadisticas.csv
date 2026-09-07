@@ -1,0 +1,4 @@
+prueba,estadistico,p_valor
+t de Welch: igualdad de medias,0.6567682562884464,0.5113374963015176
+Levene: igualdad de varianzas,0.9141439083106787,0.33902886098426244
+KS de dos muestras: igualdad de distribuciones,0.0086,0.8533882178607826
